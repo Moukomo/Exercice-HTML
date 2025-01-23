@@ -1,0 +1,15 @@
+ .container{display: flex;
+    justify-content: space-between;
+    
+}
+.gauche{width:42%;}
+.droite{width:55%;}
+.align_text{text-align: right;}
+
+hr{
+    color: black;
+    border: 1px solid black; 
+}
+.CONTACT{
+    margin-bottom: 1px;
+}
