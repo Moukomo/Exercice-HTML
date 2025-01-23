@@ -1,0 +1,35 @@
+ body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: gray;
+ }
+ .container{
+    display: flex;
+    margin: 20px auto;
+    box-shadow: inset;
+    max-width: 750px;
+    background-color: aliceblue;
+
+}
+.gauche{
+    width:42%;
+}
+.gauche img{
+    margin: left 300px;
+}
+.align_text{
+    text-align: right;
+}
+hr{
+    color: black;
+    border: 1px solid black; 
+}
+.CONTACT{
+    margin-bottom: 1px;
+}
+.droite{
+    width:55%;
+    padding: 40px;
+
+}
